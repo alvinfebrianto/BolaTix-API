@@ -1,0 +1,42 @@
+[
+  {
+    "userId": 4,
+    "userName": "Kiki",
+    "favoriteTeam": "Bali United",
+    "idMatch": "1",
+    "match": "Persib  vs PSBS Biak",
+    "date": "9/8/2024",
+    "time": "20:00",
+    "stadium": "Stadion Si Jalak Harupat"
+  },
+  {
+    "userId": 3,
+    "userName": "Jeffry",
+    "favoriteTeam": "Persebaya Surabaya",
+    "idMatch": "2",
+    "match": "Madura United   vs Malut United",
+    "date": "10/8/2024",
+    "time": "16:30",
+    "stadium": "Stadion Gelora Bangkalan "
+  },
+  {
+    "userId": 2,
+    "userName": "Aryo",
+    "favoriteTeam": "Arema FC",
+    "idMatch": "3",
+    "match": "PSM Makassar  vs PERSIS",
+    "date": "10/8/2024",
+    "time": "16:30",
+    "stadium": "Stadion Batakan"
+  },
+  {
+    "userId": 1,
+    "userName": "Aransha",
+    "favoriteTeam": "Persija Jakarta",
+    "idMatch": "4",
+    "match": "Persija  vs Barito Putera",
+    "date": "10/8/2024",
+    "time": "20:00",
+    "stadium": "Jakarta International Stadium"
+  }
+]
